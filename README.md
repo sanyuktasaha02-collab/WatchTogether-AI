@@ -1,5 +1,4 @@
-#=========================================================== 🎬
-WatchTogether AI - Group Movie Recommendation System
+🎬 WatchTogether AI - Group Movie Recommendation System
 ===========================================================
 
 Author: Sanyukta Saha
